@@ -1,0 +1,4 @@
+update faileddatabase is locked
+insert failed: database is locked
+update faileddatabase is locked
+insert failed: database is locked
